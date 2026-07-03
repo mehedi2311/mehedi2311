@@ -25,9 +25,9 @@
 
 ## About
 
-I'm **Mehedi Hasan** — a Software Developer and **AI Engineer** at **DataSoft Systems Bangladesh Limited**. I design and ship AI systems that put **Large Language Models**, **Agentic AI**, and **intelligent automation** to work behind reliable, production-grade backends.
+I'm **Mehedi Hasan** a Software Developer and **AI Engineer** at **DataSoft Systems Bangladesh Limited**. I design and ship AI systems that put **Large Language Models**, **Agentic AI**, and **intelligent automation** to work behind reliable, production-grade backends.
 
-My focus is the engineering *around* the model — orchestration, retrieval, fine-tuning, and clean APIs that make AI dependable in the real world. Computer Science graduate from **Green University of Bangladesh**, equally comfortable in Python and the JVM.
+My focus is the engineering *around* the model orchestration, retrieval, fine-tuning, and clean APIs that make AI dependable in the real world. Computer Science graduate from **Green University of Bangladesh**, equally comfortable in Python and the JVM.
 
 ---
 
@@ -69,14 +69,14 @@ My focus is the engineering *around* the model — orchestration, retrieval, fin
 
 ## Experience
 
-**Software Developer** — *DataSoft Systems Bangladesh Limited*
-> AI engineering, intelligent automation, and enterprise AI solutions.
+**Software Developer** - *DataSoft Systems Bangladesh Limited*
+> AI Engineering, Intelligent Automation, and Enterprise AI Solutions.
 
-**SQA Intern** — *DataSoft Systems Bangladesh Limited*
-> Test case design, bug reporting, SDLC & STLC, and AI research.
+**SQA Intern** - *DataSoft Systems Bangladesh Limited*
+> Test case design, Bug reporting, SDLC & STLC, and AI research.
 
-**SQA Intern** — *360 Pathshala*
-> Manual testing, SDLC, Agile practices, and team collaboration.
+**SQA Intern** - *360 Pathshala*
+> Manual testing, SDLC, Agile practices, and Team collaboration.
 
 ---
 
@@ -108,21 +108,21 @@ My focus is the engineering *around* the model — orchestration, retrieval, fin
 ## Featured Projects
 
 **Personal AI Assistant** &nbsp;·&nbsp; secure LLM chatbot
-> A personal AI assistant that answers questions about my background, skills, and projects. Ships with a modern dark/light UI, multi-language responses, and enterprise-grade security — AES-256-GCM encryption, Helmet.js hardening, CSP, and rate limiting.
+> A personal AI assistant that answers questions about my background, skills, and projects. Ships with a modern dark/light UI, multi-language responses, and enterprise-grade security AES-256-GCM encryption, Helmet.js hardening, CSP, and rate limiting.
 >
 > `JavaScript (ES6+)` · `Node.js` · `Vercel Serverless` · `OpenRouter API (Llama 3.2)`
 >
 > [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehedi2311/mehedi-ai-assistant) [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://mehedi-ai-assistant.vercel.app)
 
 **AI Chatbot Backend** &nbsp;·&nbsp; async LLM API service
-> A lightweight, asynchronous FastAPI service that proxies chat completions to the Groq LLM API — clean CORS handling and environment-based configuration for the portfolio assistant.
+> A lightweight, asynchronous FastAPI service that proxies chat completions to the Groq LLM API clean CORS handling and environment-based configuration for the portfolio assistant.
 >
 > `Python` · `FastAPI` · `Uvicorn` · `httpx` · `Groq API`
 >
 > [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehedi2311/mehedi-hasan-chatbot-backend)
 
 **AI-Powered Portfolio** &nbsp;·&nbsp; full-stack site with AI chat
-> My personal portfolio with an integrated AI chatbot — a responsive frontend backed by a FastAPI service that showcases my work, experience, and resume in one place.
+> My personal portfolio with an integrated AI chatbot a responsive frontend backed by a FastAPI service that showcases my work, experience, and resume in one place.
 >
 > `HTML5` · `CSS3` · `JavaScript` · `FastAPI` · `Python`
 >
@@ -163,6 +163,6 @@ My focus is the engineering *around* the model — orchestration, retrieval, fin
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%" alt="footer" />
 
-<em>Bridging cutting-edge AI with solid engineering — one system at a time.</em>
+<em>Bridging cutting-edge AI with solid engineering - one system at a time.</em>
 
 </div>
