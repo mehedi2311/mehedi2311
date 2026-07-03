@@ -72,8 +72,8 @@ My focus is the engineering *around* the model orchestration, retrieval, fine-tu
 **Software Developer** - *DataSoft Systems Bangladesh Limited*
 > AI Engineering, Intelligent Automation, and Enterprise AI Solutions.
 
-**SQA Intern** - *DataSoft Systems Bangladesh Limited*
-> Test case design, Bug reporting, SDLC & STLC, and AI research.
+**AI Intern** - *DataSoft Systems Bangladesh Limited*
+> AI Research, LLM Experimentation, and Intelligent Automation.
 
 **SQA Intern** - *360 Pathshala*
 > Manual testing, SDLC, Agile practices, and Team collaboration.
